@@ -9413,10 +9413,10 @@ graceful-fs@^4.0.0, graceful-fs@^4.1.10, graceful-fs@^4.1.11, graceful-fs@^4.1.1
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/graceful-readlink/-/graceful-readlink-1.0.1.tgz#4cafad76bc62f02fa039b2f94e9a3dd3a391a725"
 
-graphiql-code-exporter@^2.0.5:
-  version "2.0.5"
-  resolved "https://registry.yarnpkg.com/graphiql-code-exporter/-/graphiql-code-exporter-2.0.5.tgz#763ffc70ef2518fb4ea4277d89bd5f322599ea4d"
-  integrity sha512-Sh0gU7zjQPTRjQa8XjZwsn0lDIJQ9bpbJGP9nlSKXzx+XgPQxMbm1UEK9tAejhB824PvkUnq+z7Wdx6nDtGCSg==
+graphiql-code-exporter@^2.0.9:
+  version "2.0.9"
+  resolved "https://registry.yarnpkg.com/graphiql-code-exporter/-/graphiql-code-exporter-2.0.9.tgz#4bd4c85846215da1931460c3d8b3adfaf3b1903d"
+  integrity sha512-Jed3j4aTRS/hB2IhKUB5iTJiCVuEsfahYCa1Ju6NdHYIE7cO+2Qx3txBsq71dm4FdcTZ9QsaYJoyhiinjKQcyw==
   dependencies:
     copy-to-clipboard "^3.0.8"
 
