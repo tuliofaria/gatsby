@@ -14,7 +14,7 @@
   "devDependencies": {
     "@babel/cli": "^7.6.0",
     "@babel/core": "^7.6.0",
-    "babel-plugin-dev-expression": "^0.2.2",
+    "babel-plugin-dev-expression": "^0.2.3",
     "babel-preset-gatsby-package": "^0.2.4",
     "cross-env": "^5.2.1"
   },
